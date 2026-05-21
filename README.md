@@ -2,7 +2,6 @@
 
 Um jogo interativo de investigação de dados baseado no modelo de banco de dados real do nosso grupo. Desenvolvido em Python e Streamlit, o sistema lê diretamente as abas de uma planilha Excel e simula um ambiente de consultas SQL (JOINs, filtros, cruzamento de chaves) voltado para cenários de auditoria e *Compliance* no mercado financeiro.
 
-> 🖼️ **[ESPAÇO PARA O PRINT DA TELA]** > *(Dica: Depois que você tirar o print, adicione a imagem na pasta e substitua esta linha pelo código `![Visão Geral da Interface](nome_do_seu_print.png)`)*
 <img width="1307" height="554" alt="image" src="https://github.com/user-attachments/assets/1e2e4fd3-ee18-444f-a102-d8906801285a" />
 
 ## 📖 A História
