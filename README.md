@@ -26,3 +26,10 @@ Abra o terminal (Prompt de Comando, PowerShell ou o terminal embutido no VS Code
 A aplicação utiliza o **Streamlit** para gerar a interface web, o **Pandas** e o **OpenPyXL** para ler as abas do Excel. Para instalar tudo de uma vez, execute o comando abaixo:
 ```bash
 pip install streamlit pandas openpyxl
+
+**4. Abrindo o site para a investigação**
+Para abrir o site localmenrte e conseguir rodar os comando sql e ler as pistas etc. Rode:
+```bash
+streamlit run app.py
+
+
